@@ -23,7 +23,7 @@ Using a **Random Forest Classifier**, the model analyzes season-long statistical
 
 ### 2. Algorithmic Matchup Simulator
 The engine aggregates atomic player metrics into a composite **Team-Strength Matrix**. It simulates matchups between two teams by calculating:
-*   **Performance Differentials:** Scoring power, defensive disruption, and turnover efficiency[cite: 1].
+*   **Performance Differentials:** Scoring power, defensive disruption, and turnover efficiency.
 *   **Star Power Concentration:** Uses the ML-derived award probabilities to weigh the impact of elite talent on the floor.
 *   **Fair Market Odds:** Converts win probabilities into implied moneyline odds (e.g., -180, +220) to identify +EV (positive expected value) opportunities.
 
