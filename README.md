@@ -40,7 +40,7 @@ The simulation engine has been backtested against postseason data:
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/yourusername/nba-predictive-analytics.git](https://github.com/yourusername/nba-predictive-analytics.git)
+   git clone https://github.com/diaraul/nba-predictive-analytics.git
 ```
 2. **Install Dependencies**
 ```bash
